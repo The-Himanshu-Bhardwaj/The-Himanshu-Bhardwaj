@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self made Android Developer<br>Looking to collaborate & work in Android Development<br>Reach me at himanshub1295@gmail.com
+Passionate Android Developer with expertise in Java and Kotlin, and a hunger to learn and grow. Recently diving into the world of Flutter to expand my skillset and create even better experiences. Constantly striving to create clean and efficient code, and always looking for ways to push the boundaries of what's possible. Let's build something amazing together!
 
 
 ## 🌐 Socials:
