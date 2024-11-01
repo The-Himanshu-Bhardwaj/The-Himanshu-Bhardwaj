@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Android Developer with expertise in Java and Kotlin, and a hunger to learn and grow. Recently diving into the world of Flutter to expand my skillset and create even better experiences. Constantly striving to create clean and efficient code, and always looking for ways to push the boundaries of what's possible. Let's build something amazing together!
+Flutter developer, experienced in end-to-end mobile application development. Skilled in state management and known for strong problem-solving, teamwork, writing clean and readable code.
 
 
 ## 🌐 Socials:
